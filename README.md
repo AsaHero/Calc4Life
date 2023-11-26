@@ -17,7 +17,7 @@ Welcome to **Calc4Life**, a simple yet powerful calculator designed to make your
 - **Efficient Shopping:** Perfect for quickly figuring out sales prices or negotiating discounts.
 
 ## Getting Started
-1. **Go to:** Calc4Life here [insert link here].
+1. **Go to:** Calc4Life here [[here]](https://peaceful-melba-7f36e0.netlify.app/).
 3. **Start Calculating:** Use the intuitive interface to begin your calculations.
 
 ## How to Use
