@@ -17,8 +17,7 @@ Welcome to **Calc4Life**, a simple yet powerful calculator designed to make your
 - **Efficient Shopping:** Perfect for quickly figuring out sales prices or negotiating discounts.
 
 ## Getting Started
-1. **Download and Install:** Get Calc4Life from [insert link here].
-2. **Launch the App:** Open Calc4Life on your device.
+1. **Go to:** Calc4Life here [insert link here].
 3. **Start Calculating:** Use the intuitive interface to begin your calculations.
 
 ## How to Use
@@ -28,7 +27,7 @@ Welcome to **Calc4Life**, a simple yet powerful calculator designed to make your
 - **Applying Discounts:** Enter the price followed by the discount percentage (e.g., `100 - 20%`) to calculate the discounted price.
 
 ## Support
-Having trouble with Calc4Life? Contact us at [support email/link] for assistance.
+Having trouble with Calc4Life? Contact us at asadbahtiyarov2002@gmail.com for assistance.
 
 ## Feedback
-We love hearing from our users! If you have suggestions or feedback, please reach out to us at [feedback email/link].
+We love hearing from our users! If you have suggestions or feedback, please reach out to us at asadbahtiyarov2002@gmail.com.
